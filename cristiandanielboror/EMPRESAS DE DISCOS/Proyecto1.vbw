@@ -1,0 +1,8 @@
+inicio = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+registro = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+cliente = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+autor = 0, 0, 0, 0, C, 25, 25, 741, 641, C
+tipodepelicula = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+pelicula = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+alquiler = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+disco = 0, 0, 0, 0, C, 0, 0, 0, 0, C
